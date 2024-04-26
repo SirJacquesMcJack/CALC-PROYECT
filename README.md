@@ -4,3 +4,6 @@ Aprende a un prgrama de calculadora en Python básico / Learn how to create a ba
 ______________________________
 
 Este es mi primera contribución en Python, espero que os sea de ayuda. Realmente replicar estos proyectos puede ser divertido; pero te animo a que entiendas lo que se ha hecho y lo repitas de forma individual.
+
+
+This is my first contribution in Python, I hope it helps you. Actually replicating these projects can be fun; but I encourage you to understand what has been done and repeat it individually.
